@@ -12,4 +12,4 @@ POSTAGEM
 [] Espalhar o link
 
 
-Acesso: https://maiconrg.github.io/Centralizador_de_Links/
+Acesso: https://maiconrg.github.io/CennterLink/
